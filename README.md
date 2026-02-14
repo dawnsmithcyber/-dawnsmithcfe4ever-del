@@ -1,5 +1,5 @@
 # -dawnsmithcfe4ever-del
-# 🛡️ [Dawn Smith] | SOC Analyst & Cybersecurity Researcher
+# 🛡️ Dawn Smith | SOC Analyst & Cybersecurity Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dawn-smith-cfe-5795521aa)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/dawn.smith.cfe.4ever)
