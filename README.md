@@ -6,7 +6,7 @@
 [![Certification](https://img.shields.io/badge/Learning-SOC_Analyst-green?style=for-the-badge)](https://www.credly.com/badges/b4eb9c9b-20e8-4217-91f3-b40215381512 )
 
 ## 👤 About Me
-I am a cybersecurity professional with a CFE, currently training and immersed in the **[Cybersecurity Community]** program. I specialize in monitoring, detecting, and responding to threats within the digital landscape. My goal is to master the **Technical Controls** that keep organizations resilient against modern adversaries.
+I am a cybersecurity professional with a CFE, currently training and immersed in the **Cybersecurity Community** program with skool.com. I specialize in monitoring, detecting, and responding to threats within the digital landscape. My goal is to master the **Technical Controls** that keep organizations resilient against modern adversaries.
 
 ---
 
