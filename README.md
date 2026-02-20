@@ -35,6 +35,7 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 * **The Goal:** learn to write code using a code editor.
 * **Outcome:** Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project.
 
+### 📊 
 ---
 
 ## 📉 Growth & Metrics
