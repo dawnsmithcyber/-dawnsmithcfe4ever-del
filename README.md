@@ -35,11 +35,19 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 * **The Goal:** learn to write code using a code editor.
 * **Outcome:** Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project.
 
-### 📊 
----
-
 ## 📉 Growth & Metrics
 * **Currently Learning:** MITRE ATT&CK Framework mapping & Python for Security Automation.
+
+### 📊 SOC Fundamentals https://app.letsdefend.io/training/lessons/soc-fundamentals
+* **The Goal:** learn SOC Fundamentals
+* **Outcome:** During this intensive lab series, I gained hands-on experience in the core workflows of a Security Operations Center (SOC), focusing on the end-to-end lifecycle of incident detection and response. I developed proficiency in log analysis and correlation using industry-standard SIEM platforms, where I practiced triaging alerts, distinguishing true positives from false positives, and mapping attacker behaviors to the MITRE ATT&CK® framework. Through simulated attack scenarios involving malware, phishing, and network intrusions, I strengthened my ability to monitor network traffic via Wireshark, investigate endpoint anomalies, and execute containment strategies. This experience solidified my understanding of the Cyber Kill Chain and equipped me with the technical agility required to defend enterprise environments against evolving threats.
+
+### 📊 Offensive Security Intro https://tryhackme.com/room/offensivesecurityintrokKx12?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=697380b71aadacf217fb0a90
+* **The Goal:** The goal was to master the attacker's methodology to identify better, exploit, and remediate vulnerabilities within a secure environment.
+* **The Outcome:** I gained hands-on experience with the fundamental stages of an engagement—Information Gathering (Reconnaissance), Enumeration, and Exploitation—using industry-standard tools like Nmap and GoBuster. By successfully identifying vulnerabilities within a target web server and utilizing the Metasploit Framework to gain unauthorized access, I developed a practical understanding of how attackers bypass security controls. This lab reinforced the critical importance of the 'think like a hacker' approach to identify and remediate security gaps before malicious actors can exploit them.
+---
+
+
 
 ---
 
