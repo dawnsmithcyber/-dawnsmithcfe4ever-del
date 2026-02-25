@@ -1,7 +1,7 @@
 # -dawnsmithcyber-del
 # 🛡️ Dawn Smith | SOC Analyst & Cybersecurity Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dawn-smith-cfe-5795521aa)
+[![LinkedIn](https://www.linkedin.com/in/dawnsmith-cyber)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/dawn.smith.cfe.4ever)
 [![Certification](https://img.shields.io/badge/Learning-CFE-green?style=for-the-badge)](https://www.credly.com/badges/b4eb9c9b-20e8-4217-91f3-b40215381512 )
 
