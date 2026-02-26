@@ -1,6 +1,6 @@
 # -dawnsmithcyber-del
 # 🛡️ Dawn Smith | SOC Analyst & Cybersecurity Researcher
-
+# Applying 4.0 academic excellence in Financial Forensics to real-world cybersecurity challenges.
 <p>
 <a href="https://www.linkedin.com/in/dawnsmith-cyber">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
