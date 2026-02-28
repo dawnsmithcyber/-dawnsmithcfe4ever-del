@@ -21,6 +21,8 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 * **Firewalls & ACLs:** Configuring rules to enforce the Principle of Least Privilege.
 * **MFA & IAM:** Strengthening authentication protocols to prevent unauthorized access.
 * **VPN/TLS:** Securing data in transit across untrusted networks.
+* **Microsoft Azure With Defender For Cloud Hands On:** Hands-on lab focused on cloud security posture management (CSPM) and workload protection. The project demonstrates how to deploy, configure, and monitor security within the Azure ecosystem to detect threats and remediate vulnerabilities in real-time.
+
 
 ### **Monitoring & Detection (The SOC Toolkit)**
 * **SIEM:** Analyzing logs in **Splunk / ELK Stack** to identify "needles in the haystack."
