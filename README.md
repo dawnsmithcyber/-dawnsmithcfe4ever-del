@@ -50,7 +50,21 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 * **The Goal:** The goal was to master the attacker's methodology to identify better, exploit, and remediate vulnerabilities within a secure environment.
 * **The Outcome:** I gained hands-on experience with the fundamental stages of an engagement—Information Gathering (Reconnaissance), Enumeration, and Exploitation—using industry-standard tools like Nmap and GoBuster. By successfully identifying vulnerabilities within a target web server and utilizing the Metasploit Framework to gain unauthorized access, I developed a practical understanding of how attackers bypass security controls. This lab reinforced the critical importance of the 'think like a hacker' approach to identify and remediate security gaps before malicious actors can exploit them.
 
-  
+### 📊 Activity Logs: Configured Diagnostic Settings to track both "Service" and "Blob" level metrics. ✅ 
+
+I just completed a hands-on demo setting up Azure Storage Account Logs. I see why this can be a game-changer for visibility. Without access to these logs, an attacker could steal data, and you’d be left in the dark.
+
+Investigative Impact:
+* Scope: Targeted an Azure Storage Account used for sensitive financial data.
+* Activity Logs: Configured Diagnostic Settings to track both "Service" and "Blob" level metrics.
+
+Here is the reasoning I learned:
+This setup allows a SOC Analyst to spot (ATO) Account Takeover or Data Exfiltration in real-time.
+
+Key Takeaway: If you don't log it, you can't investigate it. - Another reminder why digital integrity is so important in an investigation.
+
+---
+
 ## 📉 Growth & Metrics
 * **Currently Learning:** Azure Storage Account Logs Setup & Azure Monitor Logs
 
