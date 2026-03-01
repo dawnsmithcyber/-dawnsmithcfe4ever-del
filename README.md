@@ -62,6 +62,7 @@ Here is the reasoning I learned:
 This setup allows a SOC Analyst to spot (ATO) Account Takeover or Data Exfiltration in real-time.
 
 Key Takeaway: If you don't log it, you can't investigate it. - Another reminder why digital integrity is so important in an investigation.
+<img width="786" height="568" alt="Screenshot 2026-03-01 at 8 48 56 AM" src="https://github.com/user-attachments/assets/6715bc50-2281-48ee-bbd7-8605b727eab9" />
 
 ---
 
