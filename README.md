@@ -32,6 +32,58 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 ---
 
 ## 🚀 Featured Cybersecurity Labs
+# Azure KQL: Moving from Reactive to Proactive Threat Hunting 🛡️
+
+## 📝 Project Overview
+This project documents my transition from reactive security monitoring to proactive threat hunting using **Kusto Query Language (KQL)** within Azure Sentinel and Log Analytics. The goal was to go beyond simply receiving alerts to actively validating threats, mapping attacker paths, and creating visual narratives for stakeholders.
+
+---
+
+## 🛠️ Core Competencies Practiced
+
+### 1. Analyzing Traffic Flows & Attribution
+I developed queries to map connections between **Source IPs (srcIP)** and **Destination IPs (destIP)** to visualize the network perimeter.
+* **Operators used:** `where`, `summarize`, `count()`, `by`, `==`, `!=`
+* **Outcome:** Successfully categorized traffic by country and status—specifically identifying "MaliciousFlow", "Allowed", and "Denied" traffic to find gaps in firewall policies.
+
+### 2. Smart Filtering & Threat Intelligence
+Implemented advanced filtering to reduce "Signal vs. Noise" and focus on high-fidelity alerts.
+* **Technique:** Leveraged `where` clauses combined with external data lists to automatically identify and flag traffic from known malicious IP addresses.
+* **Efficiency:** Filtered out legitimate high-volume traffic (such as Microsoft Update Services) to prevent hours of wasted investigation.
+
+### 3. Visual Reporting for Stakeholders
+Translated complex raw logs into actionable intelligence.
+* **Visuals:** Integrated query results directly into Azure dashboards.
+* **Outcome:** Reduced the time-to-report for stakeholders by providing real-time, easy-to-digest charts that highlight current threat trends.
+
+---
+
+## 🔍 Sample KQL Implementation
+
+The following snippet demonstrates how I aggregate network data to identify geographic anomalies in malicious traffic.
+
+```kusto
+// Mapping Malicious Traffic by Country
+CommonSecurityLog
+| where DeviceAction != "denied" // Focusing on traffic that bypassed the perimeter
+| where MaliciousIP_Flag == true // Comparing against external threat intel lists
+| summarize ConnectionCount = count() by SourceIP, DestinationIP, SourceCountry
+| where ConnectionCount > 10
+| sort by ConnectionCount desc
+| render barchart with (title="Top Malicious Allowed Connections by Country")
+📈 Key Outcomes
+Enhanced Visibility: Created a global map of connection attempts to visualize geographic risks.
+
+Proactive Defense: Successfully identified "low and slow" patterns that traditional threshold-based alerts missed.
+
+Optimized SOC Workflow: Streamlined reporting processes by creating reusable query templates for recurring security audits.
+
+🚀 Next Steps
+[ ] Integrate Sentinel Watchlists for dynamic, real-time threat feed updates.
+
+[ ] Develop Time-Series Analysis queries to detect statistical outliers in user behavior.
+
+
 
 ### 📊 Linux Fundamentals Part 1 https://tryhackme.com/room/linuxfundamentalspart1
 * **The Goal:** Introduction to the essential commands on an interactive terminal.
