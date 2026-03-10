@@ -122,9 +122,5 @@ Key Takeaway: If you don't log it, you can't investigate it. - Another reminder 
 
 ---
 
-
-
----
-
 ## 🤝 Let's Connect
 > "Security is not a product, but a process." — Bruce Schneier
