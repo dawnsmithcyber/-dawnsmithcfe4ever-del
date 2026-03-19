@@ -1,4 +1,4 @@
-# -dawnsmithcyber-del
+# -dawnsmithcyber
 # 🛡️ Dawn Smith | SOC Analyst & Cybersecurity Researcher
 # Applying 4.0 academic excellence in Financial Forensics to real-world cybersecurity challenges.
 <p>
